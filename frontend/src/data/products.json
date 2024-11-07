@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Original Chicken",
+      "category": "Main Course",
+      "description": "The best OG Chicken bro",
+      "price": 79.99,
+      "oldPrice": 99.99,
+      "image": "https://images.ctfassets.net/n4pc9wlortyn/1PTqNXLJLaeEmb1OB3Crgr/772c24e56b996d1c8894d355a6dca910/1_pc._Fried_Chicken_480x388.png?h=900&w=1200&fm=webp&fit=fill",
+      "color": "black",
+      "rating": 1.5,
+      "author":"admin"
+    },
+    {
+      "id": 2,
+      "name": "Spicy Chicken",
+      "category": "Main Course",
+      "description": "I need water",
+      "price": 149.99,
+      "oldPrice": 199.99,
+      "image": "https://images.ctfassets.net/n4pc9wlortyn/2J67QA2guNagN1PKGXKXih/600a61820ae57f7aaf7c016e9b1eb7d1/3_pcs._WingZ_Zabb_480x388.png?h=900&w=1200&fm=webp&fit=fill",
+      "color": "red",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "french fries",
+      "category": "Appetizers",
+      "description": "good",
+      "price": 199.99,
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2009/05/french-fries.jpg",
+      "color": "gold",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "egg tart",
+      "category": "Appetizers",
+      "description": "You must eat!",
+      "price": 19.99,
+      "image": "https://images.ctfassets.net/n4pc9wlortyn/6eueZZxvmoj0TyEDoiHT2K/1dd72b69d9c962ef38f061727884b7e7/1_pc._Egg_Tart_480x388.png?h=600&w=800&fm=webp&fit=fill",
+      "color": "red",
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "spaghetti fried chicken",
+      "category": "Main Course",
+      "description": "สปาเก็ตตี้นัวๆ กับไก่ทอดกรอบจัดเต็ม! ราดซอสเข้มๆ ฟินทุกคำจนอยากให้มื้อนี้ไม่มีจบ",
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "image": "https://images.unsplash.com/photo-1485527691629-8e370684924c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "blue",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Kaprao Rice",
+      "category": "Main Course",
+      "description": "กะเพราจัดจ้านถึงใจ เผ็ดร้อนสะใจในทุกคำ แบบที่สายแซ่บต้องเทใจให้ ห้ามพลาดเลย!",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Thai Tea",
+      "category": "Drinks",
+      "description": "Sparkling diamond earrings that add elegance to any outfit.",
+      "price": 299.99,
+      "oldPrice": 349.99,
+      "image": "https://images.unsplash.com/photo-1587467442586-7bcc51828a10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "silver",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Coffee",
+      "category": "Drinks",
+      "description": "High-coverage foundation for a flawless finish.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1599733589046-10c005739ef9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "beige",
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "name": "cocoa",
+      "category": "Drinks",
+      "description": "Trendy sunglasses with UV protection.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Water",
+      "category": "Drinks",
+      "description": "Comfortable maxi dress for casual outings.",
+      "price": 59.99,
+      "oldPrice": 79.99,
+      "image": "https://plus.unsplash.com/premium_photo-1664298355914-bc65d2c9af64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "green",
+      "rating": 4.2
+    }
+  ]
